@@ -1,4 +1,4 @@
-# 🛡️ Audit-SecurityStack-Windows.bat
+# 🛡️ Audit-SecurityStack-Windows
 
 Script por lotes (`.bat`) para realizar una auditoría rápida del stack de seguridad en sistemas Windows. Este script permite identificar configuraciones del firewall, presencia de antivirus, procesos relacionados con herramientas de seguridad, estado de Sysmon, y exclusiones activas en Windows Defender.
 
