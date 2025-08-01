@@ -48,7 +48,7 @@ Este script está diseñado con fines educativos, defensivos y profesionales. No
 
 ## 🧑‍💻 Autor
 
-Erick O.
+ErickO.
 🔗 GitHub: [@NoTrustedx](https://github.com/NoTrustedx)
 
 ## 📄 Licencia
